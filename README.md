@@ -1,5 +1,7 @@
 # Project_Qinhan
 Data science actual combat series and projects based on heart failure prediction algorithm
+
+
 · Report(Qinhan Yu+Jie Lu).pdf
  The data of 299 patients with heart failure were studied, and each patient had 13 clinical features. The data set is analyzed, and three different machine learning models are used to create survival prediction models for patients. Multivariate variables are analyzed, and the model is adjusted by decision tree classifier, and the correct rate reaches 82%. Using logistic regression adjustment model, the correct rate reached 83%; Using neural network to adjust the model, the correct rate reaches 96%.
 
